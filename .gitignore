@@ -1,0 +1,5 @@
+*.json
+*.bak
+*.tmp
+ehthumbs.db
+Thumbs.db
