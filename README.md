@@ -5,3 +5,5 @@
 * способность к самоорганизации;
 * способность к самобучению;
 * усидчивость;
+
+![My own picture](https://github.com/VeymaRS/course_project_GIT/blob/master/img/My%20picture.JPG?raw=true)
